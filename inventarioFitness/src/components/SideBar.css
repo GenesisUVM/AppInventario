@@ -1,0 +1,16 @@
+.sideBar{
+    background: #38369A;
+    width: 20%;
+    border-radius: 10%;
+    padding: 0.6rem;
+    margin: 1rem;
+}
+
+.listaCategorias{
+    text-decoration: none;
+    list-style: none;
+}
+
+.listaCategorias a{
+    color: #7CA5B8;
+}
