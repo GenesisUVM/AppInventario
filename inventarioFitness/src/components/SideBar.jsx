@@ -9,7 +9,7 @@ function SideBar(){
                 <li><a>Shorts</a></li>
                 <li><a>Leggins</a></li>
                 <li><a>Franelas</a></li>
-                <li><a>Hoddies</a></li>
+                <li><a>Hoodies</a></li>
                 <li><a>Faldas</a></li>
                 <li><a>Tops</a></li>
                 <li><a>Monos</a></li>

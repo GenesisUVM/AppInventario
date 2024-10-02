@@ -1,4 +1,5 @@
-import SideBar from "./components/SideBar"
+import Eliminar from './components/Eliminar'
+
 import './App.css'
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
 
     return ( 
     
-    <SideBar />
+    <Eliminar />
     
     )
     
