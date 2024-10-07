@@ -1,9 +1,13 @@
+
 .sideBar{
     background: #38369A;
     width: 15%;
     border-radius: 10%;
     padding: 0.6rem;
     margin: 1rem;
+    position: fixed;
+    margin-top: 3.5rem;
+    transition: 3s;
 }
 
 .listaCategorias{
@@ -16,3 +20,9 @@
     color: #7CA5B8;
     margin: 0.3rem;
 }
+
+.listaCategorias a:hover{
+    color: #C6EBBE;
+    cursor: pointer;
+}
+

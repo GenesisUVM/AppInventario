@@ -2,7 +2,6 @@
     background: #C6EBBE;
     width: 80%;
     margin-left: 20%;
-    margin-top: 15%;
     position: absolute;
     display: grid;
     grid-template-columns:  repeat(3, 1fr) ;
@@ -16,20 +15,26 @@
     position: relative;
     margin: auto;
     font-family: monospace;
-   
+   padding-bottom: 1rem;
 }
 
 .imgProducto{
     display: flex;
-    width: 200px;
-    padding: 1rem;
+    width: 90%;
+    margin: auto;
+    padding-top: 0.5rem;
 }
 
 .contenedor{
     display: grid;
-grid-template-columns: repeat(2,1fr);
+    grid-template-columns: repeat(2,1fr);
 }
 .producto p{
-    margin: 0.3rem;
+    margin: 0.5rem;
     display: flex;
+    
+}
+.iconos{
+    width: 1rem;
+    padding: 1rem;
 }

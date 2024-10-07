@@ -6,7 +6,9 @@
     border-radius: 1rem;
     margin: 1rem;
     padding: 0.5rem;
-    margin-left: 25%;
+    position: relative;
+    left: 30%;
+   
     
 }
 
